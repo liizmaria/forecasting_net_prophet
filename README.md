@@ -1,8 +1,8 @@
 # Forecasting Net with Prophet
 
-* I've been tasked with analyzing the company's financial and user data in clever ways to make the company grow. So, I want to find out if the ability to predict search traffic can translate into the ability to successfully trade the stock.
+* I've been tasked to analyze the company's financial and user data in clever ways to make the company grow. So, I want to find out if the ability to predict search traffic can translate into the ability to successfully trade the stock.
 
-* In a bid to drive revenue, producing a Jupyter notebook that contains your data preparation, analysis, and visualizations for all the time series data that the company needs to understand.
+* In a bid to drive revenue, producing a Jupyter notebook that contains the data preparation, analysis, and visualizations for all the time series data that the company needs to understand.
 
 ## Technologies
 
